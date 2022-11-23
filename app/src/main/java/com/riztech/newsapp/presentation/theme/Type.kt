@@ -1,4 +1,4 @@
-package com.riztech.newsapp.ui.theme
+package com.riztech.newsapp.presentation.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle

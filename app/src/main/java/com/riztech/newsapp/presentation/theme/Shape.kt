@@ -1,4 +1,4 @@
-package com.riztech.newsapp.ui.theme
+package com.riztech.newsapp.presentation.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes
