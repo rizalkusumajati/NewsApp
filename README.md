@@ -1,5 +1,5 @@
 # NewsApp
-Simple App using Jetpack Compose for show list of top headline news from https://newsapi.org
+Simple App using MVVM + Jetpack Compose + Clean Architecture for show list of top headline news from https://newsapi.org
 
 | List Screen  | Detail Screen |
 | ------------- | ------------- |
